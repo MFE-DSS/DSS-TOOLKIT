@@ -13,7 +13,7 @@
     - Plugin Best Practice Project analyzer<br>
     - Plugin Project Evaluator (Evaluate candidate projects for deployment)<br>
     - Plugin Macro cleaning and debugging<br>
-    - Webapp Dash, Catalog
+    - Webapp, Dash, Catalog
 </h4>
 <br>
 <br>
