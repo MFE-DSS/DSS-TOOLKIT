@@ -6,7 +6,7 @@
     - Administration stuff & Documentation<br>
     - Project Management<br>
     - Build management<br>
-    - Plugin Monitoring, Supervision<br>
+    - Monitoring & Supervision services<br>
     - DSS integration bash to-do list<br>
     - DSS API-Node manager<br>
     - Plugin Toolkit connection manager<br>
