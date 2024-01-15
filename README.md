@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Martin Feldmann</h1>
 <h3 align="center">This github is only for my professional service on Dataiku</h3>
-
+<style>
+.access-level {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    float: right;
+}
+</style>
 <h4 align="center">
     Centralizes my private repositories for DSS tools: <br> 
-    - Administration stuff & Documentation<br> <align="left">(private)
-    - Project Management<br><align="left">(private)
-    - Build management<br>                                                         (private)
-    - Monitoring & Supervision services<br>                                        (private)
-    - DSS integration bash to-do list<br>                                          (private)
-    - DSS API-Node manager<br>                                                     (private)
-    - Plugin Toolkit connection manager<br>                                        (private)
-    - Plugin Best Practice Project analyzer<br>                                    (private)
-    - Plugin Project Evaluator (Evaluate candidate projects for deployment)<br>    (private)
-    - Plugin Macro cleaning and debugging<br>                                      (private)
-    - Code sample                                                                  (public)
+    - Administration stuff & Documentation<span class="access-level">(private)</span><br>
+    - Project Management<span class="access-level">(private)</span><br>
+    - Build management<span class="access-level">(private)</span><br>
+    - Monitoring & Supervision services<span class="access-level">(private)</span><br>
+    - DSS integration bash to-do list<span class="access-level">(private)</span><br>
+    - DSS API-Node manager<span class="access-level">(private)</span><br>
+    - Plugin Toolkit connection manager<span class="access-level">(private)</span><br>
+    - Plugin Best Practice Project analyzer<span class="access-level">(private)</span><br>
+    - Plugin Project Evaluator (Evaluate candidate projects for deployment)<span class="access-level">(private)</span><br>
+    - Plugin Macro cleaning and debugging<span class="access-level">(private)</span><br>
+    - Code sample<span class="access-level">(public)</span><br>
 </h4>
 <br>
 <br>
