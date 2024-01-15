@@ -2,9 +2,9 @@
 <h3 align="center">This github is only for my professional service on Dataiku</h3>
 
 <h4 align="center">
-    Centralizes my private repositories for DSS tools: <br>
-    - Administration stuff & Documentation<br>                                     (private)
-    - Project Management<br>                                                       (private)
+    Centralizes my private repositories for DSS tools: <br> 
+    - Administration stuff & Documentation<br> <align="left">(private)
+    - Project Management<br><align="left">(private)
     - Build management<br>                                                         (private)
     - Monitoring & Supervision services<br>                                        (private)
     - DSS integration bash to-do list<br>                                          (private)
