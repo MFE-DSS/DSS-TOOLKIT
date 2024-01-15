@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin Feldmann</h1>
 <h3 align="center">This github is only for my professional service on Dataiku</h3>
 <style>
-.access-level {
+.access-level{
     display: inline-block;
     width: 100px;
     text-align: right;
-    float: right;
-}
+    float: right;}
 </style>
 <h4 align="center">
     Centralizes my private repositories for DSS tools: <br> 
