@@ -6,21 +6,22 @@
     width: 100px;
     text-align: right;
     float: right;
+    font-style: italic;
 }
 </style>
 <h4 align="center">
     Centralizes my private repositories for DSS tools: <br> 
-    - Administration stuff & Documentation<span class="access-level">(private)</span><br>
-    - Project Management<span class="access-level">(private)</span><br>
-    - Build management<span class="access-level">(private)</span><br>
-    - Monitoring & Supervision services<span class="access-level">(private)</span><br>
-    - DSS integration bash to-do list<span class="access-level">(private)</span><br>
-    - DSS API-Node manager<span class="access-level">(private)</span><br>
-    - Plugin Toolkit connection manager<span class="access-level">(private)</span><br>
-    - Plugin Best Practice Project analyzer<span class="access-level">(private)</span><br>
-    - Plugin Project Evaluator (Evaluate candidate projects for deployment)<span class="access-level">(private)</span><br>
-    - Plugin Macro cleaning and debugging<span class="access-level">(private)</span><br>
-    - Code sample<span class="access-level">(public)</span><br>
+    - Administration stuff & Documentation <span class="access-level">(private)</span><br>
+    - Project Management <span class="access-level">(private)</span><br>
+    - Build management <span class="access-level">(private)</span><br>
+    - Monitoring & Supervision services <span class="access-level">(private)</span><br>
+    - DSS integration bash to-do list <span class="access-level">(private)</span><br>
+    - DSS API-Node manager <span class="access-level">(private)</span><br>
+    - Plugin Toolkit connection manager <span class="access-level">(private)</span><br>
+    - Plugin Best Practice Project analyzer <span class="access-level">(private)</span><br>
+    - Plugin Project Evaluator (Evaluate candidate projects for deployment) <span class="access-level">(private)</span><br>
+    - Plugin Macro cleaning and debugging <span class="access-level">(private)</span><br>
+    - Code sample <span class="access-level">(public)</span><br>
 </h4>
 <br>
 <br>
