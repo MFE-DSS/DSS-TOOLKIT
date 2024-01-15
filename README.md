@@ -3,17 +3,17 @@
 
 <h4 align="center">
     Centralizes my private repositories for DSS tools: <br>
-    - Administration stuff & Documentation<br>
-    - Project Management<br>
-    - Build management<br>
-    - Monitoring & Supervision services<br>
-    - DSS integration bash to-do list<br>
-    - DSS API-Node manager<br>
-    - Plugin Toolkit connection manager<br>
-    - Plugin Best Practice Project analyzer<br>
-    - Plugin Project Evaluator (Evaluate candidate projects for deployment)<br>
-    - Plugin Macro cleaning and debugging<br>
-    - Webapp, Dash, Catalog
+    - Administration stuff & Documentation<br>                                     (private)
+    - Project Management<br>                                                       (private)
+    - Build management<br>                                                         (private)
+    - Monitoring & Supervision services<br>                                        (private)
+    - DSS integration bash to-do list<br>                                          (private)
+    - DSS API-Node manager<br>                                                     (private)
+    - Plugin Toolkit connection manager<br>                                        (private)
+    - Plugin Best Practice Project analyzer<br>                                    (private)
+    - Plugin Project Evaluator (Evaluate candidate projects for deployment)<br>    (private)
+    - Plugin Macro cleaning and debugging<br>                                      (private)
+    - Code sample                                                                  (public)
 </h4>
 <br>
 <br>
