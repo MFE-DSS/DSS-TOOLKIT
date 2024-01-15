@@ -6,7 +6,7 @@
     width: 100px;
     text-align: right;
     float: right;
-    font-style: italic;
+    font-style: italic
 }
 </style>
 <h4 align="center">
