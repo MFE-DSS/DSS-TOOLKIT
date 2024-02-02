@@ -14,6 +14,7 @@
     - Plugin Project Evaluator (Evaluate candidate projects for deployment)     <span class="access-level">(private)</span><br>
     - Plugin Macro cleaning and debugging     <span class="access-level">(private)</span><br>
     - Code sample     <span class="access-level">(public)</span><br>
+    - Bug & Fix     <span class="access-level">(public)</span><br>
 </h4>
 <br>
 <br>
