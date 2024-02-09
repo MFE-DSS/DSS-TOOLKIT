@@ -7,7 +7,7 @@
     - Project Management     <span class="access-level">(private)</span><br>
     - Build management     <span class="access-level">(private)</span><br>
     - Monitoring & Supervision services     <span class="access-level">(private)</span><br>
-    - DSS integration bash to-do list     <span class="access-level">(private)</span><br>
+    - DSS integration Docs     <span class="access-level">(private)</span><br>
     - DSS API-Node manager     <span class="access-level">(private)</span><br>
     - Plugin Toolkit connection manager     <span class="access-level">(private)</span><br>
     - Plugin Best Practice Project analyzer     <span class="access-level">(private)</span><br>
