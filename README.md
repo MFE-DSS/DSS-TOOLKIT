@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Martin Feldmann</h1>
-<h3 align="center">This github is only for my professional service on Dataiku</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">This github is only for my professional service on Data Platform</h3>
 
 <h4 align="center">
     Centralizes my private repositories for DSS tools: <br> 
@@ -19,10 +19,10 @@
 </h4>
 <br>
 <br>
-<h4 align="center"> - 💬 Ask me about **Python,Data or Dataiku Platform** </h4>
+<h4 align="center"> - 💬 Ask me about **Python,Data Science or Data Platform** </h4>
 <br>
 <br>
-<h4 align="center">Connect with me https://www.linkedin.com/in/martin-paul-feldmann/ </h4>
+<h4 align="center">Connect with me IIIIIIIIIII </h4>
 <br>
 <br>
 <h3 align="center">Languages and Tools:</h3>
