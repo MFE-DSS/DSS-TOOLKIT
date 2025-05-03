@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">This github is only for my professional service on Data Platform</h3>
+<h3 align="center">This repo is only for my professional service on Dataiku Data Platform</h3>
 
 <h4 align="center">
     Centralizes my private repositories for DSS tools: <br> 
@@ -12,7 +12,7 @@
     - DSS API-Node manager     <span class="access-level">(private)</span><br>
     - Plugin Toolkit connection manager     <span class="access-level">(private)</span><br>
     - Plugin Best Practice Project analyzer     <span class="access-level">(private)</span><br>
-    - Plugin Project Evaluator (Evaluate candidate projects for deployment)     <span class="access-level">(private)</span><br>
+    - Plugin Project Evaluator (Evaluate candidate projects for CICD deployment)     <span class="access-level">(private)</span><br>
     - Plugin Macro cleaning and debugging     <span class="access-level">(private)</span><br>
     - Code sample     <span class="access-level">(public)</span><br>
     - Bug & Fix     <span class="access-level">(public)</span><br>
